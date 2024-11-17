@@ -3,15 +3,15 @@
     "content": [
         {
             "section": "Introduction",
-            "text": "This is the introduction to the game."
+            "text": "This is a logic game in which you are given a red ball to launch with the ability to choose the launch trajectory and strength, and your task is to hit the white balls with the red ball and knock them out of the field"
         },
         {
             "section": "Objective",
-            "text": "The goal of the game is to score as many points as possible."
+            "text": "The goal of the game is to knock out all the white balls from the playing field, while you need to keep the red ball in the field, for each white ball you are awarded a point, and for each red ball that leaves the playing field, a point is deducted. The game ends when you have a negative score or all white balls are knocked out of the field"
         },
         {
             "section": "Controls",
-            "text": "Use the touch screen to interact with the game."
+            "text": "You control the flight path and the force of the blow on the sliders, the Push button launches a red ball, the pause button allows you to pause the game or exit it. Advice, use maximum impact force only on the first launch"
         }
     ]
 }
