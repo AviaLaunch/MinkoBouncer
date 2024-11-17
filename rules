@@ -1,0 +1,17 @@
+{
+    "title": "Game Rules",
+    "content": [
+        {
+            "section": "Introduction",
+            "text": "This is the introduction to the game."
+        },
+        {
+            "section": "Objective",
+            "text": "The goal of the game is to score as many points as possible."
+        },
+        {
+            "section": "Controls",
+            "text": "Use the touch screen to interact with the game."
+        }
+    ]
+}
